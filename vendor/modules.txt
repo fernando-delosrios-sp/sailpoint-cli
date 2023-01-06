@@ -1,3 +1,5 @@
+# github.com/Masterminds/semver v1.5.0
+## explicit
 # github.com/VividCortex/ewma v1.2.0
 ## explicit; go 1.12
 github.com/VividCortex/ewma
@@ -31,6 +33,8 @@ github.com/charmbracelet/lipgloss
 # github.com/containerd/console v1.0.3
 ## explicit; go 1.13
 github.com/containerd/console
+# github.com/cpuguy83/go-md2man/v2 v2.0.2
+## explicit; go 1.11
 # github.com/fatih/color v1.13.0
 ## explicit; go 1.13
 github.com/fatih/color
@@ -88,6 +92,12 @@ github.com/mattn/go-localereader
 # github.com/mattn/go-runewidth v0.0.14
 ## explicit; go 1.9
 github.com/mattn/go-runewidth
+# github.com/mattn/go-zglob v0.0.4
+## explicit; go 1.12
+# github.com/mh-cbon/go-msi v0.0.0-20170907180328-7f05345d485b
+## explicit
+# github.com/mh-cbon/stringexec v0.0.0-20160727103857-5a080a1a4118
+## explicit
 # github.com/mitchellh/mapstructure v1.5.0
 ## explicit; go 1.14
 github.com/mitchellh/mapstructure
@@ -130,9 +140,13 @@ github.com/rivo/uniseg
 # github.com/rogpeppe/go-internal v1.9.0
 ## explicit; go 1.17
 github.com/rogpeppe/go-internal/fmtsort
+# github.com/russross/blackfriday/v2 v2.1.0
+## explicit
 # github.com/sahilm/fuzzy v0.1.0
 ## explicit
 github.com/sahilm/fuzzy
+# github.com/satori/go.uuid v1.2.0
+## explicit
 # github.com/skratchdot/open-golang v0.0.0-20200116055534-eef842397966
 ## explicit
 github.com/skratchdot/open-golang/open
@@ -167,6 +181,8 @@ github.com/spf13/viper/internal/encoding/yaml
 # github.com/subosito/gotenv v1.4.1
 ## explicit; go 1.18
 github.com/subosito/gotenv
+# github.com/urfave/cli v1.22.10
+## explicit; go 1.11
 # github.com/vbauerster/mpb/v8 v8.1.4
 ## explicit; go 1.17
 github.com/vbauerster/mpb/v8
