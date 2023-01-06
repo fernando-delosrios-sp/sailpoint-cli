@@ -1,0 +1,32 @@
+{
+    "product": "SailPoint CLI",
+    "company": "SailPoint",
+    "license": "MIT",
+    "upgrade-code": "",
+    "files": {
+      "guid": "",
+      "items": [
+        "sailpoint_msi.exe"
+      ]
+    },
+    "env": {
+      "guid": "",
+      "vars": [
+        {
+          "name": "PATH",
+          "value": "[INSTALLDIR]",
+          "permanent": "no",
+          "system": "no",
+          "action": "set",
+          "part": "last"
+        }
+      ]
+    },
+    "shortcuts": {},
+    "choco": {
+      "description": "SailPoint Command Line Interface (CLI)",
+      "project-url": "https://github.com/sailpoint-oss/sailpoint-cli",
+      "tags": "IDN",
+      "license-url": "https://github.com/sailpoint-oss/sailpoint-cli/blob/main/LICENSE"
+    }
+  }
